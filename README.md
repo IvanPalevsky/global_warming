@@ -1,4 +1,4 @@
-# global_warming
+# Описание
 
 ## Тип моего проекта:
 > Discord-bot

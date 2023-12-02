@@ -6,6 +6,7 @@
 ## Библиотеки, которые я буду использовать
 - Библиотека discord
 - Библиотека requests
+- Библиотека tensorflow
 
 ## Референсы, которые мне пригодятся
 - [Референс 1](https://github.com/IvanPalevsky/-Discord-Image-Classification-Bot-.git)

@@ -40,4 +40,4 @@ def get_class(model_path, labels_path, image_path):
     class_name = class_names[index]
     confidence_score = prediction[0][index]
 
-    return class_name[2:], confidence_score
+    return class_name[2:].encode('1251').decode('utf-8'), confidence_score

@@ -44,9 +44,13 @@
 
 
 ## Изображения с функциями бота:
+- Функция /hello:
 ![Функция /hello](https://github.com/IvanPalevsky/global_warming/assets/132829974/bf8c6ab9-f8f7-47a0-be12-5df6b87c662c)
+- Функция /nature:
 ![Функция /nature](https://github.com/IvanPalevsky/global_warming/assets/132829974/f48fee94-d7e3-45d9-ac38-54ae13597375)
+- Функция /garbage:
 ![Функция /garbage](https://github.com/IvanPalevsky/global_warming/assets/132829974/3c733dbc-1371-435f-8fe6-7ae3df48a8f6)
+- Функция /info:
 ![Функция /info](https://github.com/IvanPalevsky/global_warming/assets/132829974/d91e65b4-5646-445f-9bba-5cb3ce49b819)
 
 
